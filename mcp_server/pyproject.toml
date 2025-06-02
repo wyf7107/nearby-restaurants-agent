@@ -1,0 +1,11 @@
+[project]
+name = "nearby_restaurants_mcp_server"
+version = "0.1.0"
+description = "A custom MCP server that retrieves nearby restaurants for an address"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "httpx>=0.28.1",
+    "mcp[cli]>=1.9.2",
+    "python-dotenv>=1.0.0"
+]

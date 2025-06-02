@@ -24,3 +24,7 @@ Built by [Google Agent Development Kit](https://github.com/google/adk-python)
 
 # Screenshot:
 ![alt text](image.png)
+
+# Reference
+* [Google Agent Development Kit](https://github.com/google/adk-python)
+* [Google Agent Development Kit Web](https://github.com/google/adk-web)
